@@ -12,6 +12,7 @@
 		5782B5F31F19743A00920255 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5782B5F11F19743A00920255 /* Main.storyboard */; };
 		5782B5F51F19743A00920255 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5782B5F41F19743A00920255 /* Assets.xcassets */; };
 		5782B5F81F19743A00920255 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5782B5F61F19743A00920255 /* LaunchScreen.storyboard */; };
+		5782B6001F197C1C00920255 /* TestDefinitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5782B5FF1F197C1C00920255 /* TestDefinitionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		5782B5F41F19743A00920255 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5782B5F71F19743A00920255 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5782B5F91F19743A00920255 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5782B5FF1F197C1C00920255 /* TestDefinitionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestDefinitionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				5782B5ED1F19743A00920255 /* AppDelegate.swift */,
 				5782B5EF1F19743A00920255 /* ViewController.swift */,
+				5782B5FF1F197C1C00920255 /* TestDefinitionViewController.swift */,
 				5782B5F11F19743A00920255 /* Main.storyboard */,
 				5782B5F41F19743A00920255 /* Assets.xcassets */,
 				5782B5F61F19743A00920255 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5782B6001F197C1C00920255 /* TestDefinitionViewController.swift in Sources */,
 				5782B5F01F19743A00920255 /* ViewController.swift in Sources */,
 				5782B5EE1F19743A00920255 /* AppDelegate.swift in Sources */,
 			);
